@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChessBackEnd.iml" filepath="$PROJECT_DIR$/ChessBackEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JsonSerializer/JsonSerializer.iml" filepath="$PROJECT_DIR$/../JsonSerializer/JsonSerializer.iml" />
+    </modules>
+  </component>
+</project>
